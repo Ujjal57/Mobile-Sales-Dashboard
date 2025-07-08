@@ -96,4 +96,4 @@ Click the link below to **view the interactive Mobile Sales Dashboard** (Login R
 
 ## 👨‍💻 Contributors
 
-- **Ujjal Kumar Dey** – *Power BI Developer* give same for the mobile sales dashboard
+- **Ujjal Kumar Dey** 
