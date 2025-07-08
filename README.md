@@ -29,7 +29,8 @@ Click the link below to **view the interactive Mobile Sales Dashboard** (Login R
 ```
 📁 Mobile-Sales-Dashboard
 ├── img/               
-└── Mobile_Sales_Data.xlsx       # Excel File                
+├── Mobile_Sales_Data.xlsx          # Excel File
+├── Mobile_Sales_Dashboard.pbix     # Power BI File           
 
 ```
 
